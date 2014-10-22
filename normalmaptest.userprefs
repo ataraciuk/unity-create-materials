@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/LoadTextureAndSave.cs">
+    <Files>
+      <File FileName="Assets/Editor/LoadTextureAndSave.cs" Line="20" Column="31" />
+      <File FileName="Assets/Runtime Normal Map/scripts/dynaNormal.cs" Line="15" Column="3" />
+      <File FileName="Assets/plugins/GrayScaleToNormalMap.cs" Line="1" Column="1" />
+      <File FileName="../Copy/HEART3/src/unity/Heart3-Unity4-Project/Assets/Scripts/Church/oscmaterialslist.js" Line="121" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
